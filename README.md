@@ -12,32 +12,32 @@ Another great experience I recently had was at Vittal, with hard work and a lot 
 In addition to my professional experience, I have a strong academic background and personal interest in a wide range of technologies. I'm particularly proud of my understanding of fundamental concepts in software development and programming. I also tend to read a lot about software design, architecture principles, design patterns, etc., just for fun and to improve myself as a developer.
 
 ###### Front-end
-JavaScript
-React
-Bootstrap
-CSS
-HTML5
++ JavaScript
++ React
++ Bootstrap
++ CSS
++ HTML5
 
 ###### Back-end
-MSSQLS & PostgreSQL
-NoSQL (MongoDB)
-Entity Framework
-.Net 6 (C#)
-Java
-SpringBoot
-Hibernate
++ MSSQLS & PostgreSQL
++ NoSQL (MongoDB)
++ Entity Framework
++ .Net 6 (C#)
++ Java
++ SpringBoot
++ Hibernate
 
 ###### General Software Development Knowledge
-REST APIs
-C/H/O Architectures
-Domain Driven Design
-Library research and investigation
-Debugging with Visual Studio/IntelliJ IDEA
-Git
-Github & GitLab
-SVN
-Docker
-Deployment (Netlify, Heroku, etc.)
++ REST APIs
++ C/H/O Architectures
++ Domain Driven Design
++ Library research and investigation
++ Debugging with Visual Studio/IntelliJ IDEA
++ Git
++ Github & GitLab
++ SVN
++ Docker
++ Deployment (Netlify, Heroku, etc.)
 
 ## Contact Me
 If you're interested in learning more about my skills and experience, please feel free to contact me at eliantemes1303@gmail.com 
