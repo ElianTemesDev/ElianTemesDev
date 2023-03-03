@@ -3,6 +3,10 @@ I am a passionate software developer with a strong focus on theory, system desig
 
 Currently, I have a year and a half of experience as a Full-stack Developer working now for Vittal Socorro Medico Privado S.A.
 
+## Stats 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElianTemesDev)](https://github.com/ElianTemesDev/ElianTemesDev/edit/main/README.md)
+
 ## Professional Experience
 One of my most rewarding experiences at my previous job was leading the development of nearly 5/6 of the functionalities for a project called Plata Madre. This project helped a jewelry company with multiple stores keep track and manage materials, stocks, sales, employees, payments, and much more.
 
