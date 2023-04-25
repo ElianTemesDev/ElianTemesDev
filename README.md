@@ -5,7 +5,7 @@ Currently, I have a year and a half of experience as a Full-stack Developer work
 
 ## Stats 
 
-[![Top Langs](github-readme-stats-sand-gamma.vercel.app/api/top-langs/?username=ElianTemesDev&layout=compact)](https://github.com/ElianTemesDev/ElianTemesDev/edit/main/README.md)
+[![Top Langs](https://github-readme-stats-sand-gamma.vercel.app/api/top-langs/?username=ElianTemesDev&layout=compact)](https://github.com/ElianTemesDev/ElianTemesDev/edit/main/README.md)
 
 ## Professional Experience
 One of my most rewarding experiences at my previous job was leading the development of nearly 5/6 of the functionalities for a project called Plata Madre. This project helped a jewelry company with multiple stores keep track and manage materials, stocks, sales, employees, payments, and much more.
