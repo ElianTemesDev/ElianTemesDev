@@ -16,7 +16,7 @@ In addition to my professional experience, I have a strong academic background a
 ###### Back-end
 + MSSQLS & PostgreSQL
 + NoSQL (MongoDB/CosmosDB)
-+ Entity Framework
++ Entity/ Entity Framework
 + .Net (C#)
 + Python
 
